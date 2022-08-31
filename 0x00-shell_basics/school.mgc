@@ -1,2 +1,2 @@
-0 string SCHOOL School
-!:mime text
+0 string School contain the string SCHOOL at offset 0
+!:mime text/plain
