@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -k 3n | tail -11 | cut -f 1
+sort -k 7 | tail -11 | cut -f 1
