@@ -1,2 +1,2 @@
 #!/bin/bash
-rev |  cut -d ":"  -f 1,7 | rev | sort -n
+rev |  cut -d ":"  -f 2,7 | rev | sort -n
